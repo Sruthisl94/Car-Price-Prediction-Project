@@ -36,7 +36,7 @@ Identified significant variables influencing car prices:
 * Engine Size
 * Curb Weight
 ## Hyperparameter Tuning
-Hyperparameter tuning improved the performance of the Random Forest Regressor.
+Hyperparameter tuning is used to improve the performance of the Random Forest Regressor.
 ## Results and Insights
 The Random Forest Regressor achieved the best results due to its ability to handle non-linear relationships and interactions between variables.
 Significant features affecting car price:
